@@ -7,13 +7,13 @@ API for a microblogging platform
 Clone the project repository by running the command below if you use SSH
 
 ```bash
-git clone git@github.com:ammezie/codebits-api.git
+git@github.com:ismatBabirli/Laravel-GraphQL-Example.git
 ```
 
 If you use https, use this instead
 
 ```bash
-git clone https://github.com/ammezie/codebits-api.git
+https://github.com/ismatBabirli/Laravel-GraphQL-Example.git
 ```
 
 After cloning,run:
@@ -53,4 +53,4 @@ and visit [http://localhost:8000/graphiql](http://localhost:8000/graphiql) to se
 
 ## Acknowledgments
 
-* [laravel-graphql](https://github.com/Folkloreatelier/laravel-graphql)
+* [Laravel-GraphQL-Example](https://github.com/ismatBabirli/Laravel-GraphQL-Example)
