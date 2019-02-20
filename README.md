@@ -1,4 +1,4 @@
-# codebits-api
+# Laravel-GraphQL-api
 
 API for a microblogging platform
 
